@@ -23,3 +23,6 @@ Overall, this provides a simple and fun way to experiment with encryption and de
 
 ## Disclaimer
 This Decrypter works only for strictly english words present in US_eng Dictionary. This fails for checking any proper nouns or words of any other languages.
+
+## Share Code as notes
+https://gist.github.com/4f21137ec76cc61f3b35638a49d0d73e.git

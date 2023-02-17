@@ -1,9 +1,5 @@
 # Caesar-Cipher-Encrypter-Decrypter
 
-![encrypt.png](encrypt.png)
-<br> 
-![decrypt.png](decrypt.png)
-
 The Caesar cipher is a simple encryption algorithm that involves shifting each letter of a message by a fixed number of positions in the alphabet. For example, if the encryption key is 3, the letter 'A' would be replaced by 'D', 'B' would be replaced by 'E', and so on.
 
 This program takes a message as input and encrypts it using a specified numerical key between 1 and 25. The encrypted message is known as the cipher text. To decrypt the cipher text, this program also finds the encryption key used and reverses the encryption process.

@@ -1,4 +1,4 @@
-# Caesar-Cipher-Encrypter-Decrypter
+# [Caesar-Cipher-Encrypter-Decrypter](https://replit.com/@huzefamehidpurw/Caesar-Cipher-Encrypter-Decrypter?v=1)
 
 The Caesar cipher is a simple encryption algorithm that involves shifting each letter of a message by a fixed number of positions in the alphabet. For example, if the encryption key is 3, the letter 'A' would be replaced by 'D', 'B' would be replaced by 'E', and so on.
 
@@ -17,8 +17,11 @@ Overall, this provides a simple and fun way to experiment with encryption and de
 
 <hr>
 
-## Disclaimer
-This Decrypter works only for strictly english words present in US_eng Dictionary. This fails for checking any proper nouns or words of any other languages.
+## Run the Code Live
+https://replit.com/@huzefamehidpurw/Caesar-Cipher-Encrypter-Decrypter?v=1
 
-## Share Code as notes
+## Share the Code as notes
 https://gist.github.com/4f21137ec76cc61f3b35638a49d0d73e.git
+
+## Disclaimer
+This Decrypter works only for strictly english words present in US_eng Dictionary. This fails for checking any proper nouns or words of any other languages. If the decrypter of hacking algo returns none, for better results from the hacking algo try with single words of length more than 2 characters, then with the valid key use the decrypter directly.
